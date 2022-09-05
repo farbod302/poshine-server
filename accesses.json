@@ -1,0 +1,33 @@
+[
+    {
+        "groupe": "admin",
+        "accesses": [
+            {
+                "name": "add_edit_user",
+                "acc_id": 0
+            }
+        ]
+    },
+    {
+        "groupe": "lab",
+        "accesses": [
+            {
+                "name": "write",
+                "acc_id": 1
+            },
+            {
+                "name": "read",
+                "acc_id": 2
+            },
+            {
+                "name": "edit",
+                "acc_id": 3
+            },
+            {
+                "name": "delete",
+                "acc_id": 4
+            }
+
+        ]
+    }
+]

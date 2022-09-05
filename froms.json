@@ -1,0 +1,37 @@
+[
+    {
+        "groupe": "admin",
+        "id": "add_edit_user",
+        "req_acc": 0,
+        "label": "مدیریت کاربران",
+        "icon": "user"
+    },
+    {
+        "groupe": "lab",
+        "id": "lab_form",
+        "req_acc": 1,
+        "label": "فرم آزمایشگاه",
+        "icon": "times"
+    },
+    {
+        "groupe": "lab",
+        "id": "lab_form",
+        "req_acc": 1,
+        "label": "فرم آزمایشگاه ۲",
+        "icon": "times"
+    },
+    {
+        "groupe": "lab",
+        "id": "lab_form",
+        "req_acc": 1,
+        "label": "فرم آزمایشگاه 3",
+        "icon": "times"
+    },
+    {
+        "groupe": "lab",
+        "id": "lab_form",
+        "req_acc": 1,
+        "label": "فرم آزمایشگاه 4",
+        "icon": "times"
+    }
+]
