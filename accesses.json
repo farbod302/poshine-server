@@ -4,6 +4,7 @@
         "accesses": [
             {
                 "name": "add_edit_user",
+                "label": "افزودن و ویرایش کاربران",
                 "acc_id": 0
             }
         ]
@@ -13,21 +14,24 @@
         "accesses": [
             {
                 "name": "write",
+                "label": "ثبت فرم جدید در آزمایشگاه",
                 "acc_id": 1
             },
             {
                 "name": "read",
+                "label": "گزارش گیری از فرم های آزمایشگاه",
                 "acc_id": 2
             },
             {
                 "name": "edit",
+                "label": "ویرایش فرم های آزمایشگاه",
                 "acc_id": 3
             },
             {
                 "name": "delete",
+                "label": "حذف فرم های آزمایشگاه",
                 "acc_id": 4
             }
-
         ]
     }
 ]

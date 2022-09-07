@@ -33,5 +33,12 @@
         "req_acc": 1,
         "label": "فرم آزمایشگاه 4",
         "icon": "times"
+    },
+    {
+        "groupe": "lab",
+        "id": "lab_form",
+        "req_acc": 2,
+        "label": "فرم آزمایشگاه 5",
+        "icon": "times"
     }
 ]

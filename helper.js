@@ -21,10 +21,4 @@ const reject = (res, msg) => {
 
 
 
-const check_permission=(accesses,groupe,req_acc)=>{
-    let s_acc = accesses.findIndex(e => e.groupe === groupe)
-    if (!s_acc || !access[s_acc].includes(req_acc)) { return false }
-    return true
-}
-
-module.exports = { verfy_token ,reject,check_permission}
+module.exports = { verfy_token ,reject}
